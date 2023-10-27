@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Aaaaa",
+        "mac_address": "9a76ba3f",
+        "sleep_mesh": true,
+        "active": true,
+        "listening_time": "3"
+    },
+    {
+        "name": "B",
+        "mac_address": "93a5bb9c",
+        "sleep_mesh": true,
+        "active": true,
+        "listening_time": 0
+    },
+    {
+        "name": "CAM",
+        "mac_address": "bd462e74",
+        "sleep_mesh": false,
+        "active": true,
+        "listening_time": 0
+    },
+    {
+        "name": "Vibe",
+        "mac_address": "25a77a74",
+        "sleep_mesh": false,
+        "active": false,
+        "listening_time": 0
+    },
+    {
+        "name": "bbbbb",
+        "mac_address": "aaaa",
+        "sleep_mesh": "true",
+        "active": false,
+        "listening_time": "2"
+    },
+    {
+        "name": "pruebaagregarnodo",
+        "mac_address": "bbbbb",
+        "sleep_mesh": false,
+        "active": false,
+        "listening_time": "2"
+    }
+]
